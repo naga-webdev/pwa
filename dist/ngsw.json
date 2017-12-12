@@ -1,0 +1,43 @@
+{
+  "configVersion": 1,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/index.html",
+        "/0.21d68d2fb963821483da.chunk.js",
+        "/inline.d6df1b919bf123c58139.bundle.js",
+        "/main.bc972e0559918c05ce7a.bundle.js",
+        "/polyfills.ecbd78f2c7269cd9c495.bundle.js",
+        "/styles.92a75569371a2bd9e785.bundle.css"
+      ],
+      "patterns": [
+        "https:\\/\\/fonts\\.googleapis\\.com\\/icon\\?family=Material\\+Icons"
+      ]
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/images/todo144.png",
+        "/assets/images/todo96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/0.21d68d2fb963821483da.chunk.js": "7b687b687f33e5d2f2e67b5ae6745286f1ee4d73",
+    "/assets/images/todo144.png": "1aeff25e9a7ddbd67d95fa859b338e773c8936af",
+    "/inline.d6df1b919bf123c58139.bundle.js": "8076d8d6091b8f4624d4aec7e0040b7e77910ea7",
+    "/assets/images/todo96.png": "4db4a8cfe2ca656c1c0c3377235e35f54f61ac0d",
+    "/main.bc972e0559918c05ce7a.bundle.js": "b27d30c62ada4c5032d0ecd9419ac98dc3a775b0",
+    "/polyfills.ecbd78f2c7269cd9c495.bundle.js": "f263f7a7f4c0e2ed92527b3fa9e754eaab73fe6c",
+    "/styles.92a75569371a2bd9e785.bundle.css": "4e10b0d9b8e36861f24912dde172b3425d9c9066",
+    "/index.html": "96bad316077442e574ccf126ecf75174303a3e8f"
+  }
+}
